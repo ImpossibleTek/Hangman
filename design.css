@@ -1,0 +1,22 @@
+body{
+    font-family:helvetica;
+    background-image:url("https://img.freepik.com/free-vector/80-s-colorful-background-geometric-style_23-2148230327.jpg?w=2000")
+  }
+  #gameCon{
+    text-align:center;
+    background-color:royalblue;
+    color:white;
+    border:5px solid black;
+    border-radius:20px;
+  }
+  #outputcontainer{
+    display:none;
+    text-align:center;
+    width:250px;
+  
+  }
+  body{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+  }
